@@ -25,16 +25,4 @@ This Jupyter Notebook demonstrates basic operations using **NumPy**, focusing on
 
 ---
 
-## Requirements
-- Python 3.x  
-- NumPy  
 
-Install NumPy if not available:
-```bash
-pip install numpy
-```
-
-## How to Run
-1. Open the notebook (`Asessment 2.ipynb`) in Jupyter Notebook or JupyterLab.  
-2. Run the cells in order.  
-3. The program will generate `.npy` files containing the results.  
