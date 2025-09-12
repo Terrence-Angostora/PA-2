@@ -10,7 +10,7 @@ This Jupyter Notebook demonstrates basic operations using **NumPy**, focusing on
 - Normalizes the array using the formula:  
 
   \[
-  X_{normalized} = \frac{X - \text{mean}}{\text{std}}
+  𝑍 = 𝑋 − 𝑥̅ / 𝜎
   \]
 
 - Saves the normalized array to a file (`X_Normalize.npy`).
